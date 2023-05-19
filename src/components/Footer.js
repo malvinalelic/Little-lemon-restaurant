@@ -30,7 +30,7 @@ export default function Footer() {
         <li>
           <h1 className="footer-header">Contact</h1>
           <ul className="footer-links">
-            <li>2395 Maldove Way,</li>
+            <li>4567 Wells Street,</li>
             <li>Chicago Illinois</li>
             <br></br>
             <li>(629)-243-6827</li>
